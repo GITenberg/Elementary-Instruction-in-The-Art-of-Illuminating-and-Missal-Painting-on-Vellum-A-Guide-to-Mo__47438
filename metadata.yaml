@@ -1,10 +1,16 @@
 _repo: Elementary-Instruction-in-The-Art-of-Illuminating-and-Missal-Painting-on-Vellum-A-Guide-to-Mo__47438
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47438-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Lara, D. Laurent de
     gutenberg_agent_id: '44315'
     url: http://www.gutenberg.org/2009/agents/44315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47438#Elementary-Instruction-in-The-Art-of-Illuminating-and-Missal-Painting-on-Vellum-A-Guide-to-Mo_
 gutenberg_issued: '2014-11-23'
 gutenberg_type: Text
 identifiers:
